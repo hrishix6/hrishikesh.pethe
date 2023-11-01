@@ -1,10 +1,10 @@
 export default function Avatar() {
   return (
-    <div className="w-36 h-36 mx-auto">
+    <div className="w-40 h-40 mx-auto">
       <img
-        src="avatar.webp"
+        src="avatar.png"
         alt="my avatar"
-        className="shadow rounded-full max-w-full h-auto align-middle border-none"
+        className="rounded-full max-w-full h-auto align-middle border-none"
       />
     </div>
   );
