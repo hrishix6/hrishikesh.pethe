@@ -4,7 +4,7 @@ export default function Summary() {
       <p className="text-3xl md:text-5xl text-center dark:text-white">Full Stack Developer</p>
       <p className="mt-4 text-xl text-center text-opacity-30">
         I have 5 years of experience building cutomer facing, high performance, scalable and secure
-        web applications on JavaScript stack.
+        web applications.
       </p>
       <div className="flex align-center justify-center mt-6">
         <a
